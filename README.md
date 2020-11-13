@@ -1,17 +1,17 @@
 ## React-Dev-Setup
 
 # Method - 1 (React setup with CDN)
-#### Please find the react setup with CDN here - https://github.com/akhiltejabm/React-Dev-Setup/tree/master/method1
+#### Please find the react setup with CDN here - https://github.com/thehackingschool/React-Dev-Setup/tree/master/method1
 
 
 
 # Method - 2 (React setup with create-react-app )
-#### Please find the react setup with CDN here - https://github.com/akhiltejabm/React-Dev-Setup/tree/master/method2
+#### Please find the react setup with CDN here - https://github.com/thehackingschool/React-Dev-Setup/tree/master/method2
  also find the reference link here - https://create-react-app.dev/docs/getting-started/
  
  
 # Method - 3 (React with Webpack setup)
-#### Please find the complete code here - https://github.com/akhiltejabm/React-Dev-Setup/tree/master/method3
+#### Please find the complete code here - https://github.com/thehackingschool/React-Dev-Setup/tree/master/method3
 ## Steps to be followed for Method-3
 ### Commands to be executed in the terminal
 
